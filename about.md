@@ -3,8 +3,12 @@ layout: page
 title: About
 ---
 
-Hello.
+## Hello there! 
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Welcome to my corner of the web, filled with math, programming and other thing which interests me.
 
-**Less is more..**
+I'm Elias and come from a small city up in northern Sweden. I pursue a M.Sc. in Engineering Physics at Umeå University, and I am currently doing an exchange in Heidelberg, Germany.
+
+This is a personal page where I share whatever thoughts are going through my head at the moment, or what I have been up to lately. 
+
+![Me & Anke](/assets/images/anke-elias.jpg)

@@ -2,7 +2,7 @@
 title:              "Two Norm"
 description:        "Shortest path to anywhere"
 author_name:        "Elias Olofsson" # change this to your name
-logo_url:           https://avatars.githubusercontent.com/u/65086086?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /assets/images/anke-elias-small.jpg # https://avatars.githubusercontent.com/u/65086086?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                #https://heiswayi.github.io # main url
